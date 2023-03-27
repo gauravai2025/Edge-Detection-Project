@@ -17,11 +17,16 @@ Each script contains comments explaining the algorithm and its implementation. Y
 
 Dependencies
 <br>
-This project requires MATLAB to run. Some additional toolboxes are required which are mentioned below:
-First click on add-ons icon in navbar. 
+This project requires MATLAB to run. Some additional MATLAB toolboxes are required which are mentioned below:
+<br>
+First click on add-ons icon in navbar above the command window in MATLAB. 
+<br>
 Select Add-ons option. Install following packages:
+
 1.MATLAB support Package for USB Webcams
+<br>
 2.Image Acquistion Toolbox
+<br>
 3.Image Processing Toolbox 
 
 
