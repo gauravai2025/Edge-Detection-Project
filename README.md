@@ -3,7 +3,11 @@
 This project is a collection of edge detection algorithms implemented in MATLAB. Edge detection is a fundamental image processing technique that aims to identify boundaries between different regions in an image. The algorithms included in this project can be used to identify edges in grayscale images.
 
 Canny Edge Detection  algorithm is used in this project:
- <img src="/edge detection  screenshot" alt="">
+<br>
+<img
+  src="/edge detection  screenshot.png"
+  title="Scrrenshot "
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
 To get started with this project, follow these steps:
 
